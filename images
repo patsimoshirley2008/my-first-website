@@ -1,7 +1,0 @@
-<h2>Animal Images</h2>
-    <div class="image-gallery">
-      <img src="cat.jpg" alt="Cat">
-      <img src="dog.jpg" alt="Dog">
-      <img src="bird.jpg" alt="Bird">
-    </div>
-  </main>
